@@ -1,0 +1,19 @@
+{
+  "name": "test03",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "cubejs-server"
+  },
+  "template": "docker",
+  "templateVersion": "0.30.44",
+  "devDependencies": {
+    "@cubejs-backend/postgres-driver": "^0.30.43",
+    "@cubejs-backend/server": "^0.30.44"
+  },
+  "dependencies": {
+    "@cubejs-client/core": "^0.30.29",
+    "@cubejs-client/react": "^0.30.40",
+    "recharts": "^2.1.13"
+  }
+}
