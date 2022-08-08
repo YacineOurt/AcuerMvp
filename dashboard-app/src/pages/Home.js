@@ -8,7 +8,7 @@ const Home = () => {
   return (
     <div>
         <Navbar></Navbar>
-      <Chart></Chart    >
+      <Chart></Chart>
     </div>
   );
 };
